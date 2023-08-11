@@ -65,7 +65,7 @@ const Home = () => {
             </div> 
 
             <div className='hero-image'>
-                <img src={heroImg}  alt = "HR Management"></img>
+                <img src={heroImg}  alt = "HR Management" style={{ width: '600px', height: '400px' }}></img>
             </div>
         </section>
     </div>
