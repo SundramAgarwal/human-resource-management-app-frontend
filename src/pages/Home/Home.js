@@ -65,7 +65,9 @@ const Home = () => {
             </div> 
 
             <div className='hero-image'>
-                <img src={heroImg}  alt = "HR Management" style={{ width: '600px', height: '400px' }}></img>
+                <img src={heroImg} id='image-test' alt = "HR Management" 
+                // style={{ width: '600px', height: '400px' }}
+                ></img>
             </div>
         </section>
     </div>
